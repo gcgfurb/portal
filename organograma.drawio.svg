@@ -1,0 +1,46 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="770px" height="295px" viewBox="-0.5 -0.5 770 295" content="&lt;mxfile&gt;&lt;diagram id=&quot;2ZFO9gQhUAjDJzoIp5RI&quot; name=&quot;Page-1&quot;&gt;7Zhdk9ogFIZ/TS63kwQ/L1dXtzeddrQ7vSbhmFAxOIRU3V9fCIQE49rutjPtzJoLJ7zAAc7zOhwN0Hx3fBR4n3/iBFgQh+QYoIcgjieTSH1q4WSEURQaIROUGKkjrOkzGNENqyiB0mpGkpwzSfe+mPKigFR6GhaCH/xhG86IJ+xxBj1hnWLWV79RInN7rHjc6h+BZrldeThBpiPB6TYTvCrsckGMNvVjune4CWXPWeaY8ENHQosAzQXn0rztjnNgOrN+1pYv9LptCyjk70yw2/6BWWVPvsL02e5Nnpp01CcCPScK0GxDGZtzxkXdiaJwjKYq+qyUgm+h6Sl4AVpsTqhnZgITqrZ2NmbDC7m2q0W23VlgWT/NOOOVaKDadvMgJBxfTEDk0qrMCnwHUpzUEDsBhQMzxRo1Glsyhxa7o5V3kI+shq3TMhe6Tbd6sRmvm08liM/Jd+3XOGQ4UV+Zeurj/NHEYrTYGimXUjv9XoeKlxmVeZV8SPlONdTou+XTyh6+ATnonNIyfhf8Rj4+NLiAL/w7+FSzQ/Aq0a+QLkj1CqgSUiDVphKJj3X4TrGi6L/k+oCZ5MUKaPkKtqSedCfcrAbu6J3CHf7bL23vEownvVuwdwMCUfWBbQJL+GHRCrNaUB06K1QVEY5LUzvoxEFB7nVlopoJ4+nWSEuqd+oIdIn4aBUTlajB8EH1tNYIHRG9wes81Hl4JVLwbn6JRQZNFXOV2p3i5l+VUR9bdAmbEy9xs+t94bSQVxZzlWETw5zFTutWOOeRope23UQyKehFqo3k0nDJW30jTW9GOi9GbkZ6g5FQeDPS+Q15M9IbjDSMf22kQ04lrPe45nBQP+cVwVzunAk6lUdTX3hWinv8M4bL0vPCnxWDyE/XAPUoj0eTPuV4it5SL7S/vk3C2z840OIn&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <rect x="272" y="28" width="220" height="60" rx="9" ry="9" fill="#000000" stroke="none" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="272" y="28" width="220" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="all"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px">
+            <text x="381.5" y="63.5">
+                Raiz
+            </text>
+        </g>
+        <a xlink:href="https://github.com/GCG-FURB">
+            <rect x="32" y="198" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+            <rect x="32" y="198" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="all"/>
+            <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px">
+                <text x="131.5" y="233.5">
+                    GCG
+                </text>
+            </g>
+        </a>
+        <a xlink:href="https://github.com/tecedufurb">
+            <rect x="282" y="198" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+            <rect x="282" y="198" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="all"/>
+            <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px">
+                <text x="381.5" y="233.5">
+                    TecEdu
+                </text>
+            </g>
+        </a>
+        <a xlink:href="https://github.com/dalton-reis">
+            <rect x="532" y="198" width="200" height="60" rx="9" ry="9" fill="#000000" stroke="none" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+            <rect x="532" y="198" width="200" height="60" rx="9" ry="9" fill="#10739e" stroke="none" pointer-events="all"/>
+            <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="14px">
+                <text x="631.5" y="233.5">
+                    DaltonReis
+                </text>
+            </g>
+        </a>
+        <path d="M 382 88 L 382 143 L 382 183.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 382 193.53 L 377 183.53 L 387 183.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 382 88 L 382 143 L 132 143 L 132 183.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 132 193.53 L 127 183.53 L 137 183.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 382 88 L 382 143 L 632 143 L 632 183.53" fill="none" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 632 193.53 L 627 183.53 L 637 183.53 Z" fill="#23445d" stroke="#23445d" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1" y="1" width="768" height="293" fill="none" stroke="#000000" stroke-width="2" pointer-events="all"/>
+    </g>
+</svg>
