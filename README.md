@@ -2,3 +2,15 @@
 Programa Geral de produção em Ensino, Pesquisa e Extensão.
 
 ![Organograma Geral](organograma.drawio.svg)
+
+## Git GCG
+
+Material desenvolvidos pelas equipes de alunos em projetos nas disciplinas ministradas.
+
+## Git TecEdu
+
+Aplicações de Objetos de Aprendizagem Educacionais.
+
+## Git DaltonReis
+
+Material de disciplinas ministradas, Trabalhos de Conclusão de Curso e Projetos (de pesquisa e Extensão) desenvolvidos, trechos de rotinas de códigos de Oficinas de implementação.
