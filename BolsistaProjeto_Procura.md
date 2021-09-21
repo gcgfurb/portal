@@ -2,6 +2,7 @@
 
 Oi Anderson, poderias encaminhar esta mensagem para os alunos.  
 Obrigado.  
+
 -------------------------------------  
 
 Olá alun@s,  
@@ -16,7 +17,8 @@ Mesmo que o projeto envolva algumas tecnologias não mostradas nas matriz curric
 
 Seguem os detalhes sobre sobre a bolsa.  
 
-----
+-------------------------------------  
+
 Edital PROPEX No 08/2021 - PIBIC/CNPq 2021-2022  
 Prazo de execução do projeto (e atividades do bolsista): de outubro/2021 a agosto/2022 (11 meses).  
 Valor mensal da bolsa: R$ 400,00 (quatrocentos reais - tabela de valores de Bolsas CNPq).  
@@ -28,14 +30,15 @@ Requisitos para o candidato (bolsista):
 • Não possuir vínculo empregatício, não atuar em monitoria nem receber salário ou qualquer remuneração decorrente do exercício de atividades de qualquer natureza, durante a vigência da bolsa;  
 • Não receber outra bolsa de pesquisa, extensão, institucional, monitoria, trabalho, estágio interno ou qualquer tipo de auxílio financeiro da FURB, bem como de qualquer órgão de fomento, de acordo com os termos da Resolução no 072/2014;  
 • O bolsista poderá atuar em estágio remunerado, fora do âmbito da FURB, desde que o horário de estágio não conflite com o período de execução do projeto ou prejudique a realização das atividades de pesquisa;  
-• Ter Curriculum Lattes cadastrado na Plataforma Lattes do CNPq (http://lattes.cnpq.br) com endereço de e-mail atualizado. Não poderá ser usado e-mail @hotmail.com;  
+• Ter Curriculum Lattes cadastrado na Plataforma Lattes do CNPq (<http://lattes.cnpq.br>) com endereço de e-mail atualizado. Não poderá ser usado e-mail @hotmail.com;  
 • Ter Conta corrente no Banco do Brasil. A conta não poderá ser conjunta ou conta poupança.  
-----
+
+-------------------------------------  
 
 Caso tenha interesse e se enquadre nos requisitos acima, me enviei uma mensagem no MS-Teams para dalton@furb.br para agendar uma reunião sobre o projeto e incluí-lo como candidato.
 
 Att,
-___________________
+
 prof. Dalton Reis, M.Sc.
 gcg.inf.furb.br
 
