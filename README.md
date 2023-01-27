@@ -6,7 +6,7 @@ Programa Geral de produção em Ensino, Pesquisa e Extensão.
 ## Git GCG
 
 Material desenvolvidos pelas equipes de alunos em projetos nas disciplinas ministradas.  
-[Link GitHub: https://github.com/GCG-FURB](https://github.com/GCG-FURB)
+[Link GitHub: https://github.com/gcgfurb](https://github.com/gcgfurb)
 
 ## Git TecEdu
 
